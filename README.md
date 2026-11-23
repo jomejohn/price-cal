@@ -10,3 +10,5 @@ calculateTax(priceAfterDiscount, taxPercent) should return the tax amount.
 calculateFinalPrice(price, discountPercent, taxPercent) should subtract the discount, add tax, and return the final price.
 
 createPriceSummary(price, discountPercent, taxPercent) should return an object with price, discount, tax, and finalPrice.
+
+https://roadmap.sh/projects/js-price-calculator
