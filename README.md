@@ -1,4 +1,6 @@
 # price-cal
+
+https://roadmap.sh/projects/js-price-calculator
 You are calculating the final price for a product after discount and tax. The discount is applied first, and tax is calculated on the discounted price.
 
 Write these functions:
